@@ -1,2 +1,2 @@
 # core-info
- core downloads
+ubuntu core downloads
